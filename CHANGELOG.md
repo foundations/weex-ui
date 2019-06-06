@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.6.14
+- [!] [wxc-swipe-action](https://alibaba.github.io/weex-ui/#/cn/packages/wxc-swipe-action/) adds slot labels, extended style and height attributes
+
+## 0.6.13
+- [!] Fixed[wxc-overlay](https://alibaba.github.io/weex-ui/#/cn/packages/wxc-dialog/)problem on[wxc-tab-bar](https://alibaba.github.io/weex-ui/#/cn/packages/wxc-tab-bar/)
+- [+] add a new componet named wxc-swipe-action
+- [!] Fix [wxc-button](https://alibaba.github.io/weex-ui/#/cn/packages/wxc-button/) displaying style problem, add isHighlight attribute to control whether button is highlighted or not.
+
 ## 0.6.12
 - [!] Fixed set transparency issues [wxc-lightbox](https://alibaba.github.io/weex-ui/#/cn/packages/wxc-lightbox/).
 - [!] Fixed set transparency issues [wxc-mask](https://alibaba.github.io/weex-ui/#/cn/packages/wxc-mask/).
